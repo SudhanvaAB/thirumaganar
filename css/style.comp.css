@@ -1777,6 +1777,10 @@ body {
   .con-img {
     height: 6rem;
   }
+
+  .fa-solid {
+    font-size: 2.5rem;
+  }
 }
 
 /* ========================= 320px (ultra-small) =========================== */
